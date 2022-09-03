@@ -26,8 +26,9 @@ public class Collections {
 	// to getcommon vales to remove duplicate
 	l2.retainAll(li);
 	System.out.println(l2);
-	
-	
+	//789
+	//895
+	//852
 	
 	}
 	
